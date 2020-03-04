@@ -1,0 +1,27 @@
+.container,.header{
+	width: 90%;
+	background-color: red;
+	margin:0 auto;
+	height: 800px;
+}
+.header{
+	height: 150px;
+	background-color: yellow;
+	width: 100%;
+}
+.nav{
+	height:500px;
+	background-color: green;
+	width: 20%;
+	float: left;
+
+}
+.section{
+	height: 500px;
+	background-color: brown;
+}
+.footer{
+	height: 150px;
+	background-color: black;
+	color: white;
+}
